@@ -26,3 +26,5 @@ Copy code
 python app.py
 
 Aplikacja będzie dostępna pod adresem http://localhost:5000/ w Twojej przeglądarce internetowej.
+
+Plik README jest najważniejszym elementem projektu, ponieważ jest pierwszym miejscem, do szukania informacji o kodzie. Są w nim podstawowe informacje na temat projektu, (instrukcje dotyczące instalacji, uruchomienia i korzystania z aplikacji). Dobre README ułatwia zrozumienie projektu użytkownikom, dzięki czemu zwiększa jego użytecznośc.
